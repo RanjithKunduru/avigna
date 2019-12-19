@@ -4,7 +4,7 @@ public class TryAvigna {
 	
 	public void avignasya()
 	{
-		System.out.println("Avignamastu!");
+		System.out.println("Avignamastu!!");
 	}
 	
 	public static void main(String[] ar)
